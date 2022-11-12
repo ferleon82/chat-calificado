@@ -1,1 +1,4 @@
-# chat-calificaco
+# Integrantes
+Diego Chamba
+
+Fernando León
